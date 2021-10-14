@@ -1,0 +1,9 @@
+.redhighlight {
+    color: red;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+#rightside{
+    float: right;
+    margin: 50px;
+}
