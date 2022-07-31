@@ -1,0 +1,115 @@
+#purple{
+    width: 200px; ;
+    height: 50px; ;
+    border: solid 3px;
+    color: black;
+    background-color: #d5d1e9;
+    left: 1190px;
+    top: 20px;
+    position: absolute;
+}
+#secondpurple{
+    width: 200px; ;
+    height: 50px; ;
+    border: solid 3px;
+    color: black;
+    background-color: #d5d1e9;
+    left: 1190px;
+    top: 20px;
+    position: absolute;
+}
+#thirdpurple{
+    width: 200px; ;
+    height: 50px; ;
+    border: solid 3px;
+    color: black;
+    background-color: #9997a9;
+    left: 1190px;
+    top: 20px;
+    position: absolute;
+}
+#purple2{
+    width: 200px;
+    height: 50px;
+    border: solid 3px;
+    color: black;
+    background-color: #d5d1e9;
+    left: 930px;
+    top: 20px;
+    position: absolute;
+}
+#secondpurple2{
+    width: 200px;
+    height: 50px;
+    border: solid 3px;
+    color: black;
+    background-color: #9997a9;
+    left: 930px;
+    top: 20px;
+    position: absolute;
+}
+#thirdpurple2{
+    width: 200px;
+    height: 50px;
+    border: solid 3px;
+    color: black;
+    background-color: #d5d1e9;
+    left: 930px;
+    top: 20px;
+    position: absolute;
+}
+#purple3{
+    width: 200px;
+    height: 50px;
+    border: solid 3px;
+    color: black;
+    background-color: #9997a9;
+    left: 670px;
+    top: 20px;
+    position: absolute;
+}
+#secondpurple3{
+    width: 200px;
+    height: 50px;
+    border: solid 3px;
+    color: black;
+    background-color: #d5d1e9;
+    left: 670px;
+    top: 20px;
+    position: absolute;
+}
+#thirdpurple3{
+    width: 200px;
+    height: 50px;
+    border: solid 3px;
+    color: black;
+    background-color: #d5d1e9;
+    left: 670px;
+    top: 20px;
+    position: absolute;
+}
+#left{
+    width: 560px;
+    height: 360px;
+    left: 200px;
+    top: 130px;
+    position: absolute;
+}
+#right{
+    width: 335px;
+    height: 420px;
+    left: 880px;
+    top: 130px;
+    position: absolute;
+}
+.center{
+    margin-left: 100px;
+    margin-right: 120px;
+}
+#image{
+    width: 700px;
+    height: 500px;
+    left: 400px;
+    top: 500px;
+    position: absolute;
+}
